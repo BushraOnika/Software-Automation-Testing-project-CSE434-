@@ -10,7 +10,7 @@ Too much exhuated this semester and then a single handle project in NBM sir cour
 
 LabelHub link is below:
 http://182.163.99.86/login
-
+Label hub is an government project by gigatect company.This company allow us to testing this website's little part only.
 
 The video links of the testing are also:
 https://1drv.ms/f/s!AtQwcQ-6nfOQdI7ozdPKGWE1tlo?e=ey9gE1
