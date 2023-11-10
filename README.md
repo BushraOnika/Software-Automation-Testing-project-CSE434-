@@ -4,6 +4,7 @@ In this we understand the test techniques
 Learned how to use selenium for automated testing
 Did a project on labelHub using selenium for automated testing alone :"")
 
+Had uploaded the test report also might check
 
 Too much exhuated this semester and then a single handle project in NBM sir course hard luck hope for the best :")
 
