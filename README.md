@@ -4,7 +4,7 @@ In this course we understand the test techniques ad test cases write.
 
 Learned how to use selenium for automated testing
 
-Did a project on labelHub using selenium for automated testing alone :"")
+Did a project for a government website labelHub using selenium for automated testing alone :"")
 
 Had uploaded the test report also might check
 
